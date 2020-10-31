@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Paint</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="erase">erase</string>
+    <string name="clear">clear</string>
+    <string name="triangle">▲</string>
+    <string name="rect">\u2395</string>
+    <string name="rect_desc">draw a rectangle</string>
+    <string name="oval">\u2d54</string>
+    <string name="oval_desc">draw an oval</string>
+    <string name="line">\u2014</string>
+    <string name="line_desc">draw a line</string>
+    <string name="arrow">\u2197</string>
+    <string name="arrow_desc">draw an arrow</string>
+    <string name="stroke">\u1a15</string>៚
+    <string name="stroke_desc">draw a stroke</string>
+    <string name="dash">---</string>
+    <string name="pen">១</string>
+    <string name="action_fab_desc">select an action</string>
+    <string name="fab_action">actions</string>
+    <string name="shape_fab_desc">select a shape</string>
+    <string name="shapes">shapes</string>
+    <string name="number">\u2115</string>
+    <string name="number_desc">draw a line of number</string>
+    <string name="letter">\u2112</string>
+    <string name="letter_desc">draw a line of letters</string>
+    <string name="test_action">Test</string>
+</resources>
